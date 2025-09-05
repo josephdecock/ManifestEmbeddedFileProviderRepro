@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Embedded/Embedded.csproj" />
+  <Project Path="Web/Web.csproj" />
+</Solution>
